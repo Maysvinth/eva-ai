@@ -1,0 +1,7 @@
+{
+  "name": "EVA AI - Virtual Assistant",
+  "description": "A high-performance virtual assistant mimicking Razor EVA AI with voice input, animated avatar, and Gemini Live integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
